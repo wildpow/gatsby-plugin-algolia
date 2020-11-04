@@ -26,5 +26,8 @@
   "files": [
     "index.js",
     "gatsby-node.js"
+  ],
+  "precommit": [
+    "build"
   ]
 }
